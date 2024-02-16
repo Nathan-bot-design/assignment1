@@ -1,3 +1,5 @@
+//NATHAN KINGORI MACHIRA 
+//ENE212-0082/2021
 #include <stdio.h>
 
 // Function to check if a number is palindrome
